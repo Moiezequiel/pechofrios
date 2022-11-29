@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Programacion-Web-02-2022/proyecto-grupo-de-trabajo-12-los-pecho-frios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Programacion-Web-02-2022/proyecto-grupo-de-trabajo-12-los-pecho-frios/issues"
+  },
+  "homepage": "https://github.com/Programacion-Web-02-2022/proyecto-grupo-de-trabajo-12-los-pecho-frios#readme"
+}
